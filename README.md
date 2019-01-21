@@ -2,5 +2,5 @@
 
 预览图
 
-![Image text](img/chrome_extensions.png)
+![Image text](https://raw.githubusercontent.com/herbert84/img/master/chrome_extensions.png)
       
