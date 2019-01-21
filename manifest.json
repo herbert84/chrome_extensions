@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Extension Demo",
+    "description": "A chrome extension for demo",
+    "icons": {
+         "128": "imgs/icon-128.png",
+         "16": "imgs/icon-16.png"
+    },
+    "permissions":[
+    	"http://*/*",
+    	"https://*/*"
+    ],
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+    }
+}
